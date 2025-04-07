@@ -2,7 +2,8 @@
 
 <h3 align="center">Implementación moderna del clásico juego Tetris con efectos visuales avanzados</h3>
 
-![tetrisjicm](https://github.com/user-attachments/assets/a0b08523-7d5b-4797-aa23-c3b871113d6c)
+![tetrisjicm](https://github.com/user-attachments/assets/08a28e03-08e0-411c-9275-f04e827ef9e2)
+
 
 
 <div align="center">
